@@ -18,7 +18,7 @@ To install Pest, use the following composer `require` statement:
 ```
 {
     "require": {
-        "educoder/pest": "1.0.0"
+        "denisogr/pest": "1.0.0"
     }
 }
 
