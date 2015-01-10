@@ -1,7 +1,7 @@
 {
-    "name": "educoder/pest",
-    "description": "A proper REST client for PHP.",
-    "homepage": "https://github.com/educoder/pest",
+    "name": "denisogr/pest",
+    "description": "A proper REST client for PHP. Work with Yii2.",
+    "homepage": "https://github.com/denisogr/pest",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,12 @@
         {
             "name": "Donald Sipe",
             "email": "donald.sipe@gmail.com"
+        },
+                {
+            "name": "Denis Porplenko",
+            "email": "porplenko.denis@gmail.com"
         }
+
     ],
     "require": {
         "lib-curl": "*",
